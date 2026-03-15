@@ -5,7 +5,7 @@
 - 🌍 **Localização:** São Paulo, Brasil.
 - 🎓 **Instituição de Ensino:** Fatec - Ourinhos.
 - 💻 **Curso:** Ciência de Dados.
-- 📅 **Semestre Atual:** 3° Semestre.
+- 📅 **Semestre Atual:** 6° Semestre.
 - 💼 **Experiência:** Estagio/Bolsa AWS Cloud Data Engineer.
 - 💡 **Conhecimentos:** Python(Pandas, Seaborn, Matplolib, Numpy), Linux, Docker, SQL, AWS S3, Estatística Descritiva.
 - 🎮 **Hobbies:** Jogar video-games, ler livros e mangás, ver séries e tocar violão.
